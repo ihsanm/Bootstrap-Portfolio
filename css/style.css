@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* styling for jumbotron */
+.jumboheading {
+    color: aliceblue;
+    font-weight: bold;
+}
+/* styling for nav */
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0px !important;
+}
+
+.navbar {
+    background-color: #001b2e !important;
+    
+}
+.navtext{
+    color: aliceblue !important;
+}
+.nicebackground {
+    background-image: url(../images/francesco-ungaro-JA-SFjT1FS0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+
+}
+
+.section-heading {
+    text-align: center;
+}
