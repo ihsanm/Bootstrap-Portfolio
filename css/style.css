@@ -7,7 +7,9 @@ html {
     color: aliceblue;
     font-weight: bold;
 }
+
 /* styling for nav */
+
 .navbar-nav {
     margin-left: auto;
     margin-right: 0px !important;
@@ -30,4 +32,10 @@ html {
 
 .section-heading {
     text-align: center;
+}
+
+/* styling for work section */
+
+.work-image{
+    height: 300px;
 }
