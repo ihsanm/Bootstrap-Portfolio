@@ -39,3 +39,31 @@ html {
 .work-image{
     height: 300px;
 }
+.work-div{
+    padding-bottom: 30px;
+}
+
+/* styling for skills section */
+
+.skills-div {
+    background-color: #001b2e;
+    height: 300px;
+    
+    
+}
+.skills-heading{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.skills-text{
+    color: aliceblue;
+    
+    
+    
+    
+}
+
